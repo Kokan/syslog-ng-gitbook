@@ -32,7 +32,7 @@ In this section we list these libraries and version restrictions.
 |[bison][ref:bison]             |>=2.4         |
 |[eventlog][gh:eventlog]        |>=0.2.12      |
 |[pcre][ref:pcre]               |>=6.1         |
-|[ivykis][gh:ivykis]            |>=0.36.1      |
+|[ivykis][gh:ivykis]            |>=0.42.2      |
 |[json-c][gh:json-c]            |>=0.9         |
 |[rabbitmq-c][gh:rabbitmq-c]    |>=0.6.0       |
 |[docbook-xsl][ref:docbook]     |---           |
